@@ -10,6 +10,7 @@ header {
     padding: 10px;
     background-color: #eee;
     color: #070606;
+    
 }
 
 .logo img {
@@ -25,6 +26,7 @@ nav ul {
 
 nav li {
     margin-right: 20px;
+    
 }
 
 nav a {
