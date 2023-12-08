@@ -1,0 +1,54 @@
+.container {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap: 200px;
+    
+}
+
+.start-up{
+    padding: 5px;
+    margin-top: 50px;
+    padding-left: 50px;
+    width: 500px;
+}
+
+.btn-head{
+    margin-left: 150px;
+}
+
+.btn-foot{
+    margin-left: 1655px;
+    margin-top: 50px;
+}
+
+
+.start-up{
+    background-color: blue;
+    font: 1em sans-serif;
+    text-indent: 10%;
+    
+}
+
+.form-fill{
+    padding: 15px;
+    margin-left: 1200px;
+    width: 350px;
+    border-radius: 50px;
+    margin-bottom: 65px;
+    margin-top: 50px;
+    
+}
+
+.column2{
+    margin-right
+}
+
+.Sign-In{
+    width: 15px;
+    border-radius: 30px;
+    padding: 15px;
+
+}
+
+
+
