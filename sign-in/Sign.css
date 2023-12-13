@@ -1,0 +1,86 @@
+.container {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap: 200px;
+    
+}
+
+.start-up{
+    padding: 5px;
+    margin-top: 50px;
+    padding-left: 50px;
+    width: 500px;
+}
+
+.btn-head{
+    margin-left: 200px;
+    width: 100px;
+    margin-top: 25px;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.btn-foot{
+    margin-top: 50px;
+}
+
+
+.start-up{
+    font: 1em sans-serif;
+    text-indent: 10%;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.form-fill{
+    padding: 15px;
+    width: 350px;
+    border-radius: 50px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    
+}
+
+.column1{
+    background-image: url(assets/Group\ 15.png);
+    background-size:400px ; 
+    background-repeat: no-repeat;
+    background-color: blue;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 100px;
+    background-position: 75% 75%;
+}
+
+.column2{
+ margin-left: 100px;
+ font-size: 30px;
+
+}
+
+.Sign-In{
+    width: 150px;
+    border-radius: 30px;
+    padding: 15px;
+    margin-left: 120px;
+
+}
+
+.Socials{
+    margin-top: 20px;
+    font-size: large;
+    margin-left: 70px;
+    font-weight: bold;
+}
+.footer{
+    background-image: url(assets/Path\ 25.png);
+    border: 4px soild black;
+}
+
+.main{
+    margin-left: 125px;
+    
+}
+
+
